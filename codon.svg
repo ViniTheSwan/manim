@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "https://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<g font-family="monospace" font-size="14px">
+<text x="57" y="14"  fill="#888888" text-anchor="end">1</text><text x="76" y="14" xml:space="preserve"><tspan fill="#007020">print</tspan>&#160;(&#39;Hello&#160;World!&#39;)</text>
+<text x="57" y="33" text-anchor="end"  fill="#888888">2</text><text x="76" y="33" xml:space="preserve"></text></g></svg>

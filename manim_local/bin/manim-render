@@ -1,0 +1,10 @@
+#!/home/christophboomer/Desktop/manim_animations/animations/manim/manim_local/bin/python
+# PBR Generated from 'console_scripts'
+
+import sys
+
+from manimlib.__main__ import main
+
+
+if __name__ == "__main__":
+    sys.exit(main())

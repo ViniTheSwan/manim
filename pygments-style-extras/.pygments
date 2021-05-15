@@ -1,0 +1,4 @@
+[pygments.styles]
+github = styles.github:GithubStyle
+monokai_light = styles.monokai_light:MonokaiLightStyle
+railscasts = styles.railscasts:RailscastsStyle
